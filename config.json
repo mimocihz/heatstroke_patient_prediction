@@ -1,0 +1,5 @@
+{
+    "subscription_id": "サブスクリプションID",
+    "resource_group": "リソースグループ名",
+    "workspace_name": "MLServiceワークスペース名"
+}
