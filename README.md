@@ -3,6 +3,7 @@ Azure Machne Learning Serviceのハンズオン資料です.<br>
 *分析テーマ*：気象データから熱中症患者数を予測する回帰モデルを作る。
 
 自社あるいは Community の勉強会など、どうぞ自由にご活用ください。
+### 制作者：[@mimocihz](https://github.com/mimocihz "Title"), [@shohei1029](https://github.com/shohei1029 "Title"), [@hogaku](https://github.com/hogaku "Title")
 
 ### 00. setup.ipynb
 - Azure ML Serviceのワークスペースとの準備・連携
